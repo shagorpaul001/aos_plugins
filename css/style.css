@@ -1,0 +1,16 @@
+.parallax-window {
+    min-height: 500px;
+    background: transparent;
+}
+
+
+/**
+ * Text 1
+ */
+#text1
+{
+    margin:           3.0em 0.0em;
+    overflow:         hidden;
+    color:            #ffffff;
+    background-color: #3fafee;
+}
